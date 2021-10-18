@@ -18,7 +18,7 @@ Design pattern that picks what should be observed at runtime.
 **4.** What is the `Strategy` design pattern?
 <!-- enter you answer in the space below -->
 ```
-
+Having plan to a design pattern
 ```
 **5.** What is the `Factory` design pattern?
 <!-- enter you answer in the space below -->
