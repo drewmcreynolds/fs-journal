@@ -4,17 +4,17 @@
 **1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 ```
-
+its the name of the project
 ```
 **2.** What is the difference between a `class` and a `struct`?
 <!-- enter you answer in the space below -->
 ```
-
+class is reference and struct is value
 ```
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
-
+void method
 ```
 ## Example 1
 ```c#
@@ -30,30 +30,30 @@ abstract class Car
 **5.** In the example what is the access modifier of the `Start()` method?
 <!-- enter you answer in the space below -->
 ```
-
+its a public virtual abstracting from the car class
 ```
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
 ```
-
+returning a string
 ```
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+abstracting class can not be used 
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+populate
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
 ```
-
+internal, public, private, and protected
 ```
 **10.** If you set a class or method to private, what can access it?
 <!-- enter you answer in the space below -->
 ```
-
+it can only be used by the same class or struct
 ```
